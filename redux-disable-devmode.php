@@ -6,7 +6,7 @@
      * for WordPress themes and plugins. Developed with WordPress coding
      * standards and PHP best practices in mind.
      *
-     * Plugin Name:     Redux Framework - Disable Developer Mode
+     * Plugin Name:     Redux Framework - Dev Mode Disabler
      * Plugin URI:      http://wordpress.org/plugins/redux-disable-devmode
      * Github URI:      https://github.com/ReduxFramework/redux-disable-devmode
      * Description:     A simple plugin to help the users of developers who ship a Redux based product with developer mode on. This plugin globally disables developer mode for all Redux instances.
