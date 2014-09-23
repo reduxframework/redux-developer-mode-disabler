@@ -51,4 +51,4 @@ Release!
 
 == Attribution ==
 
-Dovy made this plugin because he got tired of answering these support questions. Developers, please ship with `dev_mode` off!
+Dovy made this plugin because he got tired of answering these support questions. Developers, please ship with `dev_mode` set to false!
