@@ -10,7 +10,7 @@
      * Description:     A simple plugin to help the users of developers who ship a Redux based product with developer mode on. This plugin globally disables developer mode for all Redux instances.
      * Author:          Team Redux
      * Author URI:      http://reduxframework.com
-     * Version:         1.0.0
+     * Version:         1.0.1
      * Text Domain:     redux-framework
      * License:         GPL3+
      * License URI:     http://www.gnu.org/licenses/gpl-3.0.txt
@@ -26,6 +26,7 @@
         function redux_disable_dev_mode_plugin( $redux ) {
             if ( $redux->args['opt_name'] != 'redux_demo' ) {
                 $redux->args['dev_mode'] = false;
+                $redux->args['forced_dev_mode_off'] = false;
             }
         }
 

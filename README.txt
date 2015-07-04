@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: admin, admin interface, options, theme options, plugin options, options framework, settings, web fonts, google fonts, disable devmode
 Requires at least: 3.5.1
 Tested up to: 4.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -44,6 +44,9 @@ Why don't developers read instructions? Haha.
 1. If you see this, then you're in developer mode. Install this plugin to rid yourself of those annoying messages. Oh, and install the Redux Framework plugin too.
 
 == Changelog ==
+
+= 1.0.1 =
+Version increase & forced check.
 
 = 1.0 =
 Release!
